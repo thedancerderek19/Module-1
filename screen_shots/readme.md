@@ -1,0 +1,5 @@
+This folder contains screenshots of readme.md files and permission
+
+Current Path: /Users/student/Desktop/Derek's project /screen_shots
+Previous Path: /Users/student/Desktop/Derek's project /back_up
+Next Path: /Users/student/Desktop/Derek's project /what_is_important_to_you
